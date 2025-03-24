@@ -172,6 +172,7 @@ Computer
 Couch
 Cousine
 Couvert
+Creme
 Dach
 Dame
 Dank
@@ -332,6 +333,7 @@ Führerschein
 Führung
 Gabel
 Gang
+Garage
 Garantie
 Garderobe
 Garten
@@ -352,6 +354,7 @@ Gefängnis
 Gefühl
 Gegend
 Gegenstand
+Gegenteil
 Gehsteig
 Geld
 Gelegenheit
@@ -592,6 +595,7 @@ Magen
 Mahnung
 Mai
 Mail
+Mailbox
 Maler
 Malerin
 Mann
@@ -710,6 +714,7 @@ Pause
 Pension
 Pensionist
 Pensionistin
+Person
 Personal
 Personenstand
 Pfanne
@@ -754,6 +759,7 @@ Quartier
 Rad
 "Rad fahren"
 Radfahrer
+Radio
 Rasen
 Rat
 Ratschlag
@@ -822,6 +828,7 @@ Schlagobers
 Schloss
 Schluss
 Schlüssel
+Schmerz
 Schmuck
 Schnee
 Schnupfen
@@ -920,6 +927,7 @@ Szene
 Sänger
 Süden
 Süßigkeit
+T-Shirt
 Tablet
 Tafel
 Tag
@@ -1014,6 +1022,7 @@ Verlust
 Vermieter
 Versammlung
 Verspätung
+Vertrag
 Vertrauen
 Verwaltung
 Verwandte
@@ -1065,6 +1074,7 @@ Wohnzimmer
 Wolke
 Wolle
 Wunsch
+Wäsche
 Zahnbürste
 Zahnpasta
 Zeit
@@ -1086,6 +1096,7 @@ Zirkus
 Zitrone
 Zoll
 Zoo
+Zucker
 Zug
 Zuhause
 Zukunft
@@ -1118,6 +1129,7 @@ acht
 achtzehn
 achtzig
 aktiv
+aktuell
 all
 alle
 allein
@@ -1206,6 +1218,7 @@ baden
 bald
 bar
 basteln
+bauen
 beantragen
 beantworten
 bedanken
@@ -1310,6 +1323,7 @@ dritte
 drucken
 drücken
 du
+dumm
 dunkel
 durch
 durstig
@@ -1372,6 +1386,7 @@ erkälten
 erlauben
 erleben
 ernähren
+erreichen
 erschrecken
 erst
 erste
@@ -1417,6 +1432,7 @@ frei
 fremd
 fressen
 freuen
+freundlich
 frieren
 froh
 fröhlich
@@ -1564,6 +1580,8 @@ lang
 lange
 langsam
 langweilen
+langweilig
+lassen
 laufen
 laut
 leben
@@ -1632,6 +1650,7 @@ müssen
 nach
 nachschlagen
 nahe
+nass
 national
 nebenbei
 neblig
@@ -1645,6 +1664,7 @@ nicht
 nichts
 nie
 niedrig
+nirgends
 nirgendwo
 noch
 "noch mal"
@@ -1863,6 +1883,7 @@ unterhalten
 unternehmen
 unterscheiden
 unterschreiben
+untersuchen
 unterwegs
 verabreden
 verantwortlich
@@ -1971,6 +1992,7 @@ wollen
 wunderbar
 wundern
 wurst
+wählen
 wünschen
 zahlen
 zehn
