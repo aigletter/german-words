@@ -86,6 +86,7 @@ Bahnsteig
 Balkon
 Ballett
 Banane
+Band
 Bank
 Bankomat
 Batterie
@@ -133,6 +134,7 @@ Blitz
 Blume
 Bluse
 Bogen
+Bohne
 Boot
 Botschaft
 Brief
@@ -372,9 +374,11 @@ Geschäft
 Gesellschaft
 Gesetz
 Gespräch
+Gesundheit
 Getränk
 Gewalt
 Gewicht
+Gewitter
 Gewohnheit
 Gift
 Girokonto
@@ -467,6 +471,7 @@ Junge
 Juni
 Kabel
 Kaffee
+Kalender
 Kampf
 Kanal
 Kandidat
@@ -565,6 +570,7 @@ Land
 Landschaft
 Landwirtschaft
 Langeweile
+Laptop
 Laster
 Leben
 Lebensmittel
@@ -683,6 +689,7 @@ Nichtraucherin
 Norden
 Not
 Notaufnahme
+Note
 Notfall
 Notiz
 November
@@ -806,6 +813,7 @@ Rucksack
 Ruhe
 Rundfahrt
 Rundgang
+Rätsel
 Rückfahrt
 Rückkehr
 S-Bahn
@@ -996,6 +1004,7 @@ Umweltschutz
 Unfall
 Unglück
 Uniform
+Universität
 Unterlage
 Unternehmerin
 Unterricht
@@ -1076,6 +1085,7 @@ Wohnung
 Wohnzimmer
 Wolke
 Wolle
+Workshop
 Wunsch
 Wäsche
 Zahnbürste
@@ -1252,6 +1262,7 @@ beschreiben
 besetzen
 besichtigen
 besonders
+bestehen
 bestellen
 bestrafen
 bestätigen
@@ -1341,6 +1352,7 @@ eigen
 eigentlich
 eilig
 ein
+"ein Mal"
 eindeutig
 einfach
 einfügen
@@ -1350,6 +1362,7 @@ einkaufen
 einladen
 einmal
 einnehmen
+einpacken
 einrichten
 eins
 einsam
@@ -1359,6 +1372,7 @@ einsteigen
 eintausend
 eintreten
 einzahlen
+einzeln
 elektrisch
 elf
 empfangen
@@ -1426,6 +1440,7 @@ finanzieren
 finden
 fit
 flach
+fleißig
 flexibel
 fliegen
 fliehen
@@ -1661,6 +1676,7 @@ nebenbei
 neblig
 nehmen
 nein
+nett
 neu
 neun
 neunzehn
@@ -1745,6 +1761,7 @@ rund
 sagen
 salzig
 sauber
+sauer
 schade
 schalten
 schauen
@@ -1838,6 +1855,7 @@ stressig
 studieren
 stumm
 städtisch
+stören
 suchen
 sympathisch
 sämtlich
@@ -1910,6 +1928,7 @@ vermeiden
 vermieten
 vermuten
 vernünftig
+verpassen
 verpflegen
 verraten
 verreisen
@@ -2035,6 +2054,7 @@ zählen
 Übernachtung
 Überraschung
 Überschrift
+Übersetzung
 Überweisung
 ängstlich
 öffentlich
